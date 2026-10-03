@@ -76,15 +76,15 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 | Parameter | Value |
 |---|---|
-| Resonant frequency, f_r | ______ GHz |
-| Dielectric constant, ε_r | ______ (e.g., 4.4 for FR-4, 2.2 for RT/Duroid) |
-| Substrate height, h | ______ mm |
-| Patch width, W | ______ mm |
-| Patch length, L | ______ mm |
-| Ground plane dimensions, L_g × W_g | ______ mm |
+| Resonant frequency, f_r | 2.45 GHz |
+| Dielectric constant, ε_r | 4.4 (e.g., 4.4 for FR-4, 2.2 for RT/Duroid) |
+| Substrate height, h | Fr-4 Epoxy mm |
+| Patch width, W | 37.26 mm |
+| Patch length, L | 28.83 mm |
+| Ground plane dimensions, L_g × W_g | 47.31 x 37.32 mm |
 | Feed type | Microstrip inset feed / Coaxial probe feed |
-| Feed line width (50 Ω) | ______ mm |
-| Feed point / inset depth | ______ mm |
+| Feed line width (50 Ω) | ≈ 3 mm |
+| Feed point / inset depth | ≈ 8-10 mm |
 
 ---
 
